@@ -1,0 +1,4 @@
+test/view/ViewConsoleTest.class
+controller/ApplicationTest$TestView.class
+controller/ApplicationTest.class
+test/model/CoinTest.class
